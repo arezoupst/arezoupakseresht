@@ -1,49 +1,58 @@
 body {
     font-family: Arial, sans-serif;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
-    line-height: 1.6;
+    background-color: #f5f3f9; /* Light lilac background */
 }
 
 header {
-    background: #333;
+    background: #6a0dad; /* Deep lilac */
     color: #fff;
-    padding: 1rem;
+    padding: 20px 0;
     text-align: center;
 }
 
-nav ul {
-    display: flex;
-    justify-content: center;
-    list-style: none;
-    padding: 0;
-    background: #444;
+header h1 {
     margin: 0;
 }
 
-nav ul li {
-    margin: 0 1rem;
-}
-
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
-
-main {
-    padding: 2rem;
-}
-
 section {
-    margin-bottom: 2rem;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    background: #fff;
+    border: 1px solid #e0d9f2; /* Light lilac border */
+    border-radius: 8px;
 }
 
 footer {
-    background: #333;
-    color: #fff;
     text-align: center;
-    padding: 1rem;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    padding: 20px;
+    background: #6a0dad; /* Deep lilac */
+    color: #fff;
+}
+
+a {
+    color: #6a0dad; /* Deep lilac */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    color: #6a0dad; /* Deep lilac */
+    border-bottom: 2px solid #6a0dad; /* Deep lilac */
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
 }

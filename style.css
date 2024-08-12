@@ -1,4 +1,12 @@
 body {
+    background-image: url('/Users/arezoupst/Documents/GitHub/arezoupakseresht.github.io/images/Untitled design butterfly.png'); /* Change to your image path */
+    background-size: cover; /* Ensure the image covers the entire page */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-attachment: fixed; /* Make the background image fixed during scroll */
+    background-position: center; /* Center the background image */
+    color: #72486bd4; /* Change text color to contrast with background */
+}
+body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
@@ -7,7 +15,7 @@ body {
 }
 
 header {
-    background: #6a0dad; /* Deep lilac */
+    background: #69249a; /* Deep lilac */
     color: #fff;
     padding: 20px 0;
     text-align: center;
@@ -56,3 +64,4 @@ ul {
 ul li {
     margin-bottom: 10px;
 }
+

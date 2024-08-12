@@ -1,5 +1,5 @@
 body {
-    background-image: url('/Users/arezoupst/Documents/GitHub/arezoupakseresht.github.io/images/Untitled design butterfly.png'); /* Change to your image path */
+    background-image: url('/images/Untitled design butterfly.png'); /* Change to your image path */
     background-size: cover; /* Ensure the image covers the entire page */
     background-repeat: no-repeat; /* Prevent the image from repeating */
     background-attachment: fixed; /* Make the background image fixed during scroll */

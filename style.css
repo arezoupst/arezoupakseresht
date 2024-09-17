@@ -11,13 +11,27 @@ body {
     padding: 20px;
     border-radius: 10px;
 }
+@media (max-width: 600px) {
+    .card {
+      margin: 10px;
+      padding: 15px;
+    }
+  }
+  
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f5f3f9; /* Light lilac background */
-}
+    font-family: 'Poppins', sans-serif;
+  }
+  body {
+    background: linear-gradient(to right, #e0bbff, #cbb2fe);
+  }
+  .card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+  }
+      
 
 header {
     background: #69249a; /* Deep lilac */

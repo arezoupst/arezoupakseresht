@@ -22,7 +22,7 @@
 
 ### 👩‍💻 About Me :
 I’m a **Graduate Bioinformatics Researcher** working on multi-omics datasets and machine-learning models to advance healthcare insights.
-- 🔬 Currently analyzing pregnancy-related datasets to identify biomarkers and predict gestational age.
+- 🔬 Analyzing pregnancy-related datasets to identify biomarkers and predict gestational age.
 - 📚 Teaching Assistant at Sharif University of Technology for the Fundamentals of Bioinformatics course.
 - 🤖 Exploring more about Explainable AI and neural network architectures.
 

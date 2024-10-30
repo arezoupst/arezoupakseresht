@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/your-linkedin-profile">
       <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,7 +9,7 @@
     </a>
     <!-- Add more badges if necessary -->
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=purple" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=gray" alt=""/>
   <h1>
     Welcome!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -24,7 +24,7 @@
 I’m a **Graduate Bioinformatics Researcher** working on multi-omics datasets and machine-learning models to advance healthcare insights.
 - 🔬 Currently analyzing pregnancy-related datasets to identify biomarkers and predict gestational age.
 - 📚 Teaching Assistant at Sharif University of Technology for the Fundamentals of Bioinformatics course.
-- 🌱 Exploring more about Explainable AI and neural network architectures.
+- 🤖 Exploring more about Explainable AI and neural network architectures.
 
 ---
 

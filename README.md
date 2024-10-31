@@ -18,6 +18,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/30pdYnh6VSw5mWD0Z0/giphy.gif" width="500" height="300"/>
 </div>
+
 ---
 
 ### 👩‍💻 About Me :
